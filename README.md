@@ -8,4 +8,4 @@
 
 # GİF
 
-<img src="./image/Harcama Hesap.gif>
+<img src="./image/Harcama Hesap.gif">
